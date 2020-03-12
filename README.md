@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ep5254efynx0f83c?svg=true)](https://ci.appveyor.com/project/raptor-vrn/ajs-hometask-8-map)
